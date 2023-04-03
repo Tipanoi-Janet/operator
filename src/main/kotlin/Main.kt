@@ -1,4 +1,5 @@
 fun main () {
+//   variables
    var num1 = 240
    var num2 = 45
    var addition =num1 + num2
